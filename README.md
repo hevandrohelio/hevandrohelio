@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3>Olá, dev! 👋</h3>
 <h4>Eu sou o Hevandro, e sou estudante de tecnologia.</h4>
-<div align="left">
+<div>
     <a href="https://github.com/hevandrohelio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats">
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"></a>
