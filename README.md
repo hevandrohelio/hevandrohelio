@@ -18,6 +18,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/hevandrohelio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
 </div>
+<h4>Eu falo: </h4>
+<div>
+    <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" alt="Inglês"> Intermediário<br>
+    <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1ef-1f1f5.png" alt="Japonês"> Iniciante<br>
+    <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>
 <h4>📚Estou aprendendo: </h4>
 <div style="display: inline-block";>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
