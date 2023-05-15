@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div>
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" alt="Inglês"> Intermediário<br>
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1ef-1f1f5.png" alt="Japonês"> Iniciante<br>
-    
+    <img align="center" height="50" width="60" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>
 <h4>📚Estou aprendendo: </h4>
 <div style="display: inline-block";>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
