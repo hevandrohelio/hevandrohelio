@@ -23,13 +23,17 @@ Here are some ideas to get you started:
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" alt="Inglês"> Intermediário<br>
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1ef-1f1f5.png" alt="Japonês"> Iniciante<br>
     <img align="center" height="50" width="60" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>
-<h4>📚Estou aprendendo: </h4>
+<h4>💡Eu conheço: </h4>
 <div style="display: inline-block";>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">      
+    </div>
+<h4>📚Estou aprendendo: </h4>
+<div style="display: inline-block";>
+   <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"> -->
+    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
+    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt"r"/>
    <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> -->
     <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
 </div>
