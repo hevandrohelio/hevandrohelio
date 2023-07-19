@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌐 Sei programar em:
 -->
 <h3>Olá, dev! 👋</h3>
-<h4>Eu sou o Hevandro, e sou estudante de tecnologia.</h4>
+<h4>Eu sou o Hevandro, e estou cursando Desenvolvimento de Sistemas na ETEC.</h4>
 <!--<div>
     <a href="https://github.com/hevandrohelio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
