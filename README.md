@@ -14,15 +14,22 @@ Here are some ideas to get you started:
 -->
 <h3>Olá, dev! 👋</h3>
 <h4>Eu sou o Hevandro, e estou cursando Desenvolvimento de Sistemas na ETEC.</h4>
-<!--<div>
+
+
+<div>
     <a href="https://github.com/hevandrohelio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
-</div>-->
+    <img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt=":counter"/>
+</div>
+
+##
+
+<!--
 <h4>🌐Eu falo: </h4>
 <div>
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" alt="Inglês"> Intermediário<br>
     <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1ef-1f1f5.png" alt="Japonês"> Iniciante<br>
-    <img align="center" height="50" width="60" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>
+    <img align="center" height="50" width="60" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>-->
 <h4>💡Eu conheço: </h4>
 <div style="display: inline-block";>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
@@ -40,12 +47,16 @@ Here are some ideas to get you started:
     <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
 </div>
 
+##
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact" alt"languages"/></div>
 
 ##
 
 
 <div>
-    <h4>Contato</h4>
+    <!--<h4>Contato</h4>-->
   <a href="https://www.linkedin.com/in/hevandro-hélio-farcioli-rego-0268261b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
     <!-- <a href="https://www.youtube.com/c/HevandroMegaPlayer"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> -->
     
