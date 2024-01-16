@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://github.com/hevandrohelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
-    <h5>Year's commits</h5>
-    <img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt=":counter"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true">
+    <h5>Year's Commits</h5>
+    <img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt=":counter"/></a>
 </div>
 
 ##
