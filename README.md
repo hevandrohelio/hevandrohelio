@@ -21,40 +21,24 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
     <a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>
     <!--<h5>Profile access</h5>-->
-    <!--<img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>-->
+    <img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>
 </div>
 
 ##
 
-<!--
-<h4>🌐Eu falo: </h4>
-<div>
-    <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" alt="Inglês"> Intermediário<br>
-    <img align="center" height="50" width="60" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1ef-1f1f5.png" alt="Japonês"> Iniciante<br>
-    <img align="center" height="50" width="60" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="Espanhol"> Iniciante<br>-->
-<h4>💡Eu conheço: </h4>
-<div style="display: inline-block";>
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt"Java"/>
-    </div>
-<h4>📚Estou aprendendo: </h4>
-<div style="display: inline-block";>
-   <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"> -->
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP">
-    <!--<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt"r"/>-->
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt"JavaScript"/>
-   <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> -->
-    <!-- <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
-</div>
+#### 💡Eu conheço:
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
 
-##
+#### 📚Estou aprendendo:
+[![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+[![](https://img.shields.io/badge/Parrot_OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
 
-<div>
-    <!--<h4>Contato</h4>-->
-  <a href="https://www.linkedin.com/in/hevandro-hélio-farcioli-rego-0268261b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-    <!-- <a href="https://www.youtube.com/c/HevandroMegaPlayer"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> -->
-    
-</div>
+#### 🛠Outras ferramentas:
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/software-download/windows10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
