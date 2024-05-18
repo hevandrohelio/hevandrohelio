@@ -21,7 +21,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
     <a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>
     <!--<h5>Profile access</h5>-->
-    <img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>
+    <!--<img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>-->
+    <img src="https://moe-counter.anjiurine.top/get/@hevandrohelio?theme=asoul" alt="count" />
 </div>
 
 ##
