@@ -32,14 +32,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
+[![](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 #### 📚Estou aprendendo:
 [![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-[![](https://img.shields.io/badge/Parrot_OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
+<!--[![](https://img.shields.io/badge/KDE_neon-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)-->
 
 #### 🛠Outras ferramentas:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/software-download/windows10)
+[![](https://img.shields.io/badge/KDE-neon-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
