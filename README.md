@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-#### 📚I'm learning:
+#### 📚Learning:
 [![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 <!--[![](https://img.shields.io/badge/KDE_neon-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)-->
