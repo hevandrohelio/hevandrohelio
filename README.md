@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 #### 🛠Other tools:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/software-download/windows10)
-[![](https://img.shields.io/badge/Kali-Linux-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.kali.org/)
+[![](https://img.shields.io/badge/KDE-Neon-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
