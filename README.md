@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 ### Hello, dev! 👋
 #### I'm Hevandro and I study Systems Development.
 
-<a href="https://github.com/hevandrohelio">
+
+[![Hevandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight)](https://github.com/hevandrohelio/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight)](https://github.com/hevandrohelio/)
+<!--<a href="https://github.com/hevandrohelio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
-<a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>
+<a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>-->
 <!--<img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>-->
 <!--<img src="https://moe-counter.anjiurine.top/get/@hevandrohelio?theme=asoul" alt="count" />-->
 <!--<img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt="animecounter" />-->
