@@ -12,19 +12,15 @@ Here are some ideas to get you started:
 - 📚 Estou aprendendo Desenvolvimento Web e Python
 - 🌐 Sei programar em:
 -->
-<h3>Hello, dev! 👋</h3>
-<h4>I'm Hevandro and I study Systems Development.</h4>
+### Hello, dev! 👋
+#### I'm Hevandro and I study Systems Development.
 
-
-<div>
-    <a href="https://github.com/hevandrohelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
-    <a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>
-    <!--<h5>Profile access</h5>-->
-    <!--<img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>-->
-    <!--<img src="https://moe-counter.anjiurine.top/get/@hevandrohelio?theme=asoul" alt="count" />-->
-    <img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt="animecounter" />
-</div>
+<a href="https://github.com/hevandrohelio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
+<a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>
+<!--<img src="https://count.getloli.com/get/@hevandrohelio?theme=asoul" alt="animecounter"/>-->
+<!--<img src="https://moe-counter.anjiurine.top/get/@hevandrohelio?theme=asoul" alt="count" />-->
+<!--<img src="https://count.getloli.com/get/@:hevandrohelio?theme=asoul" alt="animecounter" />-->
 
 ##
 
@@ -43,5 +39,5 @@ Here are some ideas to get you started:
 
 #### 🛠Other tools:
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/software-download/windows10)
-[![](https://img.shields.io/badge/KDE-Neon-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)
+![Static Badge](https://img.shields.io/badge/Parrot-Linux-%23007EC6?style=flat-square&logo=linux&logoColor=white&link=https%3A%2F%2Fparrotsec.org%2F)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
