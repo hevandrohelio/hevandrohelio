@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌐 Sei programar em:
 -->
 ### Hello, dev! 👋
-#### I'm Hevandro and I study Systems Development.
+#### I'm Hevandro and I'm a Systems development technician.
 
 
 [![Hevandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight)](https://github.com/hevandrohelio/)
