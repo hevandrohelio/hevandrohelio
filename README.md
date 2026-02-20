@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--[![Hevandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight)](https://github.com/hevandrohelio/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight)](https://github.com/hevandrohelio/)-->
-[![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hevandrohelio&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hevandrohelio&show_icons=true&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![:name](https://count.getloli.com/@:hevandro?name=%3Ahevandro&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--<a href="https://github.com/hevandrohelio">
