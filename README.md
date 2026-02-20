@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #### I'm Hevandro and I'm a Systems development technician.
 
+<img height="180em" src="https://media1.tenor.com/m/9sN5D2J5fvwAAAAC/katysuha-approves.gif">
+
 <!--[![Hevandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight)](https://github.com/hevandrohelio/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight)](https://github.com/hevandrohelio/)-->
 [![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hevandrohelio&show_icons=true&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,3 +56,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Fedora-blue?style=flat-square&logo=Fedora&logoColor=white)](https://fedoraproject.org/)
 [![](https://img.shields.io/badge/Debian-crimson?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+<img height="180em" src="https://i.imgur.com/5W6SZl8.jpeg">
+
