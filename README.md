@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm Hevandro and I'm a Systems development technician.
 
-<img height="180em" src="https://media1.tenor.com/m/9sN5D2J5fvwAAAAC/katysuha-approves.gif">
+<!--<img height="180em" src="https://media1.tenor.com/m/9sN5D2J5fvwAAAAC/katysuha-approves.gif">-->
 
 <!--[![Hevandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight)](https://github.com/hevandrohelio/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight)](https://github.com/hevandrohelio/)-->
