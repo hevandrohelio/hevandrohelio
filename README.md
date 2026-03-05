@@ -57,5 +57,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Debian-crimson?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
+##
+
+<div>
 <img height="180em" src="https://i.imgur.com/5W6SZl8.jpeg">
+<img height="180em" src="https://media1.tenor.com/m/7Huj7uWvZ3wAAAAC/girls-last-tour-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C.gif">
+<img height="180em" src="https://media1.tenor.com/m/D-dDezEvJOUAAAAC/yuuri.gif">
+</div>
 
