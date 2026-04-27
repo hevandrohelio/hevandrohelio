@@ -42,12 +42,18 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 [![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/GitHub-purple?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![](https://img.shields.io/badge/GitLab-gray?style=flat-square&logo=gitlab&logoColor=orange)](https://about.gitlab.com/)
+![](https://img.shields.io/badge/PlantUML-white?style=flat-square&logo=uml&logoColor=red)
 
 #### 📚Learning:
 ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 [![](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/NestJS-gray?style=flat-square&logo=nestjs&logoColor=crimson)](https://nestjs.com/)
 [![](https://img.shields.io/badge/Next.JS-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Spring_Boot-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![](https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=blue)](https://www.docker.com/)
+
 
 <!--[![](https://img.shields.io/badge/KDE_neon-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)-->
 
