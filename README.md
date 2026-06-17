@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hevandrohelio&show_icons=true&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://count.getloli.com/@:hevandrohelio?theme=asoul" alt="" />
+<img height="180em" src="https://media.tenor.com/n9DVrVq0jxMAAAAj/oguri-cap-meme.gif">
 <!--<a href="https://github.com/hevandrohelio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevandrohelio&show_icons=true&theme=tokyonight" alt="GitHub Stats"&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/hevandrohelio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevandrohelio&layout=compact&theme=tokyonight" alt"languages"/></a>-->
@@ -69,7 +70,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://i.imgur.com/5W6SZl8.jpeg">
 <img height="180em" src="https://media1.tenor.com/m/7Huj7uWvZ3wAAAAC/girls-last-tour-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C.gif">
 <img height="180em" src="https://media1.tenor.com/m/bqB3zSAjXjUAAAAC/l-l-lawliet.gif">
-<img height="180em" src="https://media.tenor.com/n9DVrVq0jxMAAAAj/oguri-cap-meme.gif">
 <img height="180em" src="https://media.tenor.com/rdG_xBMCVkkAAAAi/agnes-tachyon-tachyon.gif">
 </div>
 
